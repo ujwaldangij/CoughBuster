@@ -3,7 +3,7 @@
 CoughBuster is a comprehensive web application designed to facilitate the registration and engagement of healthcare professionals (HCPs) in educational events. The application allows multiple Medical Representatives (MRs) to log in, register HCPs, conduct quizzes, and provide immediate feedback on quiz responses.
 
 ![CoughBuster login](public/git/login.png)
-![CoughBuster login](public/git/CoughBuster.png)
+![CoughBuster login](public/git/dashboard.png)
 ![CoughBuster login](public/git/r1.png)
 ![CoughBuster login](public/git/r2.png)
 ![CoughBuster login](public/git/q1.png)
